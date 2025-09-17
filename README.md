@@ -6,15 +6,15 @@ Collection of Java console games (Dice Roll, FLAMES, Number Guess, Lucky Winner,
 # Multiple Games in One Project 
 1. Dice Roll 2. FLAMES 3.Number Guess 4. Lucky Winner 5. Tic-Tac-Toe 6. Rock-Paper Scissor.
 
- Java OOP Concepts – Classes, Objects, Inheritance, Abstraction, Interfaces, Polymorphism.
+ * Java OOP Concepts – Classes, Objects, Inheritance, Abstraction, Interfaces, Polymorphism.
 
- Collections Framework – Efficient storage & retrieval using List, Set, and Map.
+ * Collections Framework – Efficient storage & retrieval using List, Set, and Map.
 
- Multithreading – Some tasks (like animations/timers) handled in separate threads for better console interaction.
+ * Multithreading – Some tasks (like animations/timers) handled in separate threads for better console interaction.
 
- Menu Driven – Simple launcher (UserInterface.java) lets you pick and play any game.
+ * Menu Driven – Simple launcher (UserInterface.java) lets you pick and play any game.
 
- Well-Commented Code – Clean and beginner-friendly Java code.
+ * Well-Commented Code – Clean and beginner-friendly Java code.
 
  # Games Included
 
@@ -32,8 +32,8 @@ Collection of Java console games (Dice Roll, FLAMES, Number Guess, Lucky Winner,
  1. In Eclipse You can run Directly by Compiler
  2. In Others Like Edit Plus, etc Use CMD to Run Console
   Here Steps are...
-  javac UserInterface.java
-  java UserInterface
+  1. javac UserInterface.java
+  2. java UserInterface
 # What I Learned
 
 1. Writing modular Java code with multiple classes.

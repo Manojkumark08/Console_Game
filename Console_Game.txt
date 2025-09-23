@@ -1,0 +1,513 @@
+--------------Its Java Console Game Corner Buddy--------------
+		1.Number Guess
+		2.Tic-Tac-Toe
+		3.Rock-Paper-Scissor
+		4.Lucky Winner Today
+		5.Dice Thrice
+		6.Flames
+		7.Exit
+Wanna Move to :8
+Enter Valid Input....
+Wanna Move to :k
+Invalid Input, Try Again...
+Wanna Move to :1
+---------Hurry Up to Number Guessing-----------
+1.Play Game
+2.About Game
+3.Back
+Wanna Move to :2
+		Rules!
+1.The Number you have to Guess Between 0 to 100
+2.No Negative Numbers are Allowed and No Invalid Inputs are Allowed
+1.Play Game
+2.About Game
+3.Back
+Wanna Move to :1
+	Loading.....
+	Now Game Gets Begin...
+Guess the Number :55
+sorry, '55' is Little Low than Secret Number...
+Guess the Number :65
+sorry, '65' is Little Low than Secret Number...
+Guess the Number :75
+sorry, '75' is Little High than Secret Number...
+Guess the Number :70
+sorry, '70' is Little High than Secret Number...
+Guess the Number :69
+sorry, '69' is Little High than Secret Number...
+Guess the Number :68
+sorry, '68' is Little High than Secret Number...
+Guess the Number :67
+Congratulation!...'67' is the Secret Number, You Won ...........
+1.Play Again
+2.Back
+Wanna Move to :3
+Enter Valid Input....
+2
+---------Hurry Up to Number Guessing-----------
+1.Play Game
+2.About Game
+3.Back
+Wanna Move to :3
+		1.Number Guess
+		2.Tic-Tac-Toe
+		3.Rock-Paper-Scissor
+		4.Lucky Winner Today
+		5.Dice Thrice
+		6.Flames
+		7.Exit
+Wanna Move to :2
+---------Hurry Up to Tic Tac Toe-----------
+1.Play Game
+2.About Game
+3.Back
+Wanna Move to :1
+Play with.....
+1.New Player
+2.System
+3.Back
+Wanna Move to :2
+1.Play Now
+2.Back
+Wanna Move to :1
+Lets Begin.....
+Which one You Want ?(X/O) :x
+Gamer Name ?:mano
+Then System take 'O'
+Here the Option, In game You will Move your Every Steps by 1 to 9.....
+
+1 . 2 . 3 
+. . . . . 
+4 . 5 . 6 
+. . . . . 
+7 . 8 . 9 
+
+.........Here is Your Game Ground........
+
+  *   *   
+* * * * * 
+  *   *   
+* * * * * 
+  *   *   
+
+mano, Its Your Move :1
+
+X *   *   
+* * * * * 
+  *   *   
+* * * * * 
+  *   *   
+
+Its System Move :4
+
+X *   *   
+* * * * * 
+O *   *   
+* * * * * 
+  *   *   
+
+mano, Its Your Move :2
+
+X * X *   
+* * * * * 
+O *   *   
+* * * * * 
+  *   *   
+
+Its System Move :8
+
+X * X *   
+* * * * * 
+O *   *   
+* * * * * 
+  * O *   
+
+mano, Its Your Move :3
+
+X * X * X 
+* * * * * 
+O *   *   
+* * * * * 
+  * O *   
+
+
+X * X * X 
+* * * * * 
+O *   *   
+* * * * * 
+  * O *   
+
+X Wins the Game
+
+1.Play Again
+2.Back
+Wanna Move to :2
+Play with.....
+1.New Player
+2.System
+3.Back
+Wanna Move to :1
+1.Play Now
+2.Back
+Wanna Move to :1
+Lets Begin.....
+Enter First Gamer Name :mano
+Enter Second Gamer Name :sow
+mano, Which one You Want (X/O) ? :x
+Then sow get 'O'.
+Here the Option, In game You will Move your Every Steps by 1 to 9.....
+
+1 . 2 . 3 
+. . . . . 
+4 . 5 . 6 
+. . . . . 
+7 . 8 . 9 
+
+.........Here is Your Game Ground........
+
+  *   *   
+* * * * * 
+  *   *   
+* * * * * 
+  *   *   
+
+mano, Its Your Move :1
+
+X *   *   
+* * * * * 
+  *   *   
+* * * * * 
+  *   *   
+
+sow, Its Your Move :2
+
+X * O *   
+* * * * * 
+  *   *   
+* * * * * 
+  *   *   
+
+mano, Its Your Move :4
+
+X * O *   
+* * * * * 
+X *   *   
+* * * * * 
+  *   *   
+
+sow, Its Your Move :7
+
+X * O *   
+* * * * * 
+X *   *   
+* * * * * 
+O *   *   
+
+mano, Its Your Move :5
+
+X * O *   
+* * * * * 
+X * X *   
+* * * * * 
+O *   *   
+
+sow, Its Your Move :9
+
+X * O *   
+* * * * * 
+X * X *   
+* * * * * 
+O *   * O 
+
+mano, Its Your Move :6
+
+X * O *   
+* * * * * 
+X * X * X 
+* * * * * 
+O *   * O 
+
+
+X * O *   
+* * * * * 
+X * X * X 
+* * * * * 
+O *   * O 
+
+X Wins the Game
+
+1.Play Again
+2.Back
+Wanna Move to :2
+Play with.....
+1.New Player
+2.System
+3.Back
+Wanna Move to :3
+---------Hurry Up to Tic Tac Toe-----------
+1.Play Game
+2.About Game
+3.Back
+Wanna Move to :3
+		1.Number Guess
+		2.Tic-Tac-Toe
+		3.Rock-Paper-Scissor
+		4.Lucky Winner Today
+		5.Dice Thrice
+		6.Flames
+		7.Exit
+Wanna Move to :3
+---------Hurry Up to Rock-Paper-Scissor-----------
+1.Play Game
+2.About Game
+3.Back
+Wanna Move to :2
+		Attention!
+1.When Game get Started You will Pick one Option from given [Rock, Paper, Scissor] & Same Time System Will Pick one from [Rock, Paper, Scissor].
+2.Rock Defeat Scissor
+3.Scissor cuts Paper
+4.Paper Hold/Catch Rock
+5.If You and User Pick Same from [Rock, Paper, Scissor] the Game gets Draw/Die
+1.Play Game
+2.About Game
+3.Back
+Wanna Move to :1
+		System VS You
+Lets Begin.....
+1.Rock
+2.Paper
+3.Scissor
+What You Pick :1
+You :Rock 
+System :Paper
+Rock gets Hold, Sorry You Lost....
+1.Play Again
+2.Back
+Wanna Move to :1
+1.Rock
+2.Paper
+3.Scissor
+What You Pick :2
+You :Paper 
+System :Rock
+Paper Hold Rock ,so You Won....
+1.Play Again
+2.Back
+Wanna Move to :2
+---------Hurry Up to Rock-Paper-Scissor-----------
+1.Play Game
+2.About Game
+3.Back
+Wanna Move to :3
+		1.Number Guess
+		2.Tic-Tac-Toe
+		3.Rock-Paper-Scissor
+		4.Lucky Winner Today
+		5.Dice Thrice
+		6.Flames
+		7.Exit
+Wanna Move to :4
+---------Hurry Up to Who is our Lucky Winner-----------
+1.Play Game
+2.About Game
+3.Back
+Wanna Move to :2
+		Attention!
+1.It is a Money Based like (Lottery), A Ticket Price Rs.200. After Payment You will Receive a Ticket with 6-Digit Number. If that Number Matches with Lucky Number You Will Get One Lakh as Prize Money, If Doesn't Match Better Luck Next Time and Refund is Not Applicable and A user Can Buy only 8 Tickets at a Time only.
+End of the Day Sharply at 23:59 The Winner will Announced so Kindly Check Status Maybe You are the Lucky Person Today........
+		Note :
+	It is Just for Learning and Fun.........
+1.Play Game
+2.About Game
+3.Back
+Wanna Move to :1
+1.Buy Ticket
+2.View Ticket Status
+3.Back
+Wanna Move to :1
+Ticket Count :2
+Redirecting to Payment.....
+Payable Amount is RS.400
+1.Pay Now
+2.Cancel Payment
+Wanna Move to :1
+Payment Success
+----This is Your Ticket Number-----
+1.Secret Number :794391
+----This is Your Ticket Number-----
+2.Secret Number :933302
+Don't Share Your Ticket to Anyone
+Kindly check Status
+1.Buy Ticket
+2.View Ticket Status
+3.Back
+Wanna Move to :2
+Enter Your Ticket :794391
+Congratulation You are the Lucky and Luckiest Person Today and Your Prize Amount is One Lakh
+1.Buy Ticket
+2.View Ticket Status
+3.Back
+Wanna Move to :3
+---------Hurry Up to Who is our Lucky Winner-----------
+1.Play Game
+2.About Game
+3.Back
+Wanna Move to :3
+		1.Number Guess
+		2.Tic-Tac-Toe
+		3.Rock-Paper-Scissor
+		4.Lucky Winner Today
+		5.Dice Thrice
+		6.Flames
+		7.Exit
+Wanna Move to :5
+---------Hurry Up to Dice Thrice-----------
+1.Play Game
+2.About Game
+3.Back
+Wanna Move to :2
+1.Play Game
+2.About Game
+3.Back
+Wanna Move to :1
+Now Game Gets Begin
+-------You VS System---------
+	Tap to Roll Dice
+1.Tap
+2.End Game
+Wanna Move to :1
+
+Your Dice:
+
+System Dice:
+. . . . . . 
+. *   * . 
+. . . . 
+. *   * . 
+.   *   . 
+. *   * . 
+. . . . . 
+
+. *   * . 
+. *   * . 
+. . . . . 
+
+	Tap to Roll Dice
+1.Tap
+2.End Game
+Wanna Move to :1
+
+Your Dice:
+
+System Dice:
+. . . . . 
+. *     . 
+.   *   . 
+.     * . 
+. . . . . 
+
+. . . . . 
+. *   * . 
+. *   * . 
+. *   * . 
+. . . . . 
+
+	Tap to Roll Dice
+1.Tap
+2.End Game
+Wanna Move to :1
+
+System Dice:
+. . . . . 
+.     
+Your Dice:
+.   . 
+.   *   . 
+.       . . . . . 
+.       . 
+.   *   . 
+.       . 
+. . . . . 
+
+
+. . . . . 
+
+---Your Score---
+Round 1 = 6
+Round 2 = 3
+Round 3 = 1
+Total Score by You = 10
+---System Score---
+Round 1 = 5
+Round 2 = 6
+Round 3 = 1
+Total Score by System = 12
+-------Final Result--------
+System Win the Match with Difference :2
+1.Play Game
+2.About Game
+3.Back
+Wanna Move to :2
+1.Play Game
+2.About Game
+3.Back
+Wanna Move to :3
+		1.Number Guess
+		2.Tic-Tac-Toe
+		3.Rock-Paper-Scissor
+		4.Lucky Winner Today
+		5.Dice Thrice
+		6.Flames
+		7.Exit
+Wanna Move to :6
+---------Hurry Up to Flames-----------
+  *   *   
+*   *   * 
+  *   *   
+    *     
+1.Pairing
+2.About Flames
+3.Back
+Wanna Move to :2
+Already You About 'FLAMES' but once I will remain it......
+	F - FRIENDS
+	L - Love
+	A - Affection
+	M - MARRIAGE
+	E - ENEMY
+	S - SISTER
+1.Pairing
+2.About Flames
+3.Back
+Wanna Move to :1
+Lets See Pairing About Your Wished One.......
+Enter Your Beautiful Name :Madhan Kumar
+Enter Your Crush Name :Kavinasri
+Processing.....
+  * *   * * * *   * *   
+* * * * * * * * * * * * 
+  * * * * * * * * * *   
+    * * *     * * *     
+      *         *       
+Hey MADHANKUMAR, KAVINASRI is Lover for You.........
+1.Pair Again
+2.Back
+Wanna Move to :2
+---------Hurry Up to Flames-----------
+  *   *   
+*   *   * 
+  *   *   
+    *     
+1.Pairing
+2.About Flames
+3.Back
+Wanna Move to :3
+		1.Number Guess
+		2.Tic-Tac-Toe
+		3.Rock-Paper-Scissor
+		4.Lucky Winner Today
+		5.Dice Thrice
+		6.Flames
+		7.Exit
+Wanna Move to :7
+Thank You Buddy, You Rock it.....
